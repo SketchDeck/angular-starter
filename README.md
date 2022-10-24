@@ -102,15 +102,15 @@ and template:
 
 And end result should be just like the previous list but with the hero's age added in :) 
 
-DONE! Congratulations :) next step is to schedule a review!
+11. Push your finalized code to your code repo.
 
-NOTE: Extra credit is here if the above took you only a couple of hours or less - please don't feel you need to do this!  
+DONE! Congratulations :) 
+
+Next step is to schedule a review! Email `joe.teibel@sketchdeck.com` or DM me on Slack and let me know you're ready to schedule your review.
+
+The following extra credit is here if the above took you only a couple of hours or less - please don't feel you need to do this!  
 
 Extra credit:
 - Style the UI to look nicer
 - Create another component that will display the hero's details when selected from a list
 - Agument the data set with photos and display those as well!
-
-
-
-
