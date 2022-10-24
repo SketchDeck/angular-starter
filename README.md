@@ -1,7 +1,9 @@
 # SketchDeck project - getting started with Angular
 
 Welcome! This is our little test-project, which outlines the requirements for getting started
-with Angular in a way that is relevant to the work we do at SketchDeck.
+with Angular in a way that is relevant to the work we do at SketchDeck with some modifications and additions along the way :)
+
+You'll be invited to our Slack channel to ask any questions you may have and get help if needed.  Please don't hesitate to ask questions if you have any!
 
 The goal of this exercise is to leverage the existing Angular documentation and *Tour of Heroes* tutorial
 to create your own new web-app with specific requirements (outlined below).
@@ -100,7 +102,9 @@ and template:
 
 And end result should be just like the previous list but with the hero's age added in :) 
 
-DONE!  with the requirements...
+DONE! Congratulations :) next step is to schedule a review!
+
+NOTE: Extra credit is here if the above took you only a couple of hours or less - please don't feel you need to do this!  
 
 Extra credit:
 - Style the UI to look nicer
