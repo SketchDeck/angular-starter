@@ -24,7 +24,7 @@ You'll need to create a Github repository for your Angular application. This is 
 
 After creating the repo, clone it to your local dev machine - create your angular app there.
 
-4. After [Creating a repo](#creating-a-repo), continue with creating your Angular app... but instead of going back to the doc above, go to the _"Tour of Heros"_ tutorial and [start here where they create that app](https://angular.io/tutorial/toh-pt0#create-a-new-workspace-and-an-initial-application) and setup your app in your new repo on your local machine. Feel free to choose whatever defaults you're most comfortable with.
+4. After you've got your repo cloned to your local dev machine, continue with creating your Angular app... but instead of going back to the doc above, go to the _"Tour of Heros"_ tutorial and [start here where they create that app](https://angular.io/tutorial/toh-pt0#create-a-new-workspace-and-an-initial-application) and setup your app in your new repo. Feel free to choose whatever defaults you're most comfortable with.
 
 5. Complete all of the steps in [part 1, _"The Hero editor"_](https://angular.io/tutorial/toh-pt1) in the _"Tour of Heros"_ tutorial
 
@@ -104,7 +104,7 @@ And end result should be just like the previous list but with the hero's age add
 
 DONE! Congratulations :) 
 
-Next step is to schedule a review! Email `joe.teibel@sketchdeck.com` or DM me on Slack and let me know you're ready to schedule your review.
+Next step is to schedule a review! Email `joe.teibel@sketchdeck.com` or DM me on Slack, send your Github repo link and let me know you're ready to schedule your review.
 
 The following extra credit is here if the above took you only a couple of hours or less - please don't feel you need to do this!  
 
