@@ -102,7 +102,7 @@ And end result should be just like the previous list but with the hero's age add
 
 11. Push your finalized code to your code repo.
 
-DONE! Congratulations :) 
+That's it, you're done 🎉
 
 Next step is to schedule a review! Email `joe.teibel@sketchdeck.com` or DM me on Slack, send your Github repo link and let me know you're ready to schedule your review.
 
